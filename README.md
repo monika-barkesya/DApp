@@ -8,7 +8,7 @@ The protocol implements the following functions :
    
 ```shell
 npm i
-npx hardhat
+npx hardhat node
 npm i -g yarn
  yarn deploy
 
